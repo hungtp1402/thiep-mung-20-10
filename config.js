@@ -1,7 +1,7 @@
 const nameGirl = 'Nguyễn Thu Hoài';
 const eventName = 'Chúc Mừng 20-10';
 const titleCard = 'Happy Vietnamese Women\'s Day!';
-const contentCard = 'Nhân ngày 20/10, chúc em luôn xinh đẹp, hạnh phúc và gặp nhiều may mắn trong cuộc sống. Có thể anh chưa nói ra hết những điều mình cảm nhận, nhưng anh luôn nghĩ em là một người rất đặc biệt. Những lần gặp gỡ và trò chuyện với em luôn khiến anh cảm thấy vui vẻ và ý nghĩa. \"520\"';
+const contentCard = 'Ngày 20/10, một dịp đặc biệt để nghĩ về những điều tốt đẹp mà các cô gái như em mang đến. Nhân dịp này, chúc em luôn xinh đẹp, hạnh phúc và gặp nhiều may mắn trong cuộc sống. Hy vọng món quà nhỏ này của anh sẽ khiến cho em thích và mang đến cho em niềm vui và nụ cười trong những ngày nhân dịp đặc biệt này. Happy Vietnamese Wommen\'s Day!';
 
 
 const giftImage1 = 'IMG_6578.jpg';
